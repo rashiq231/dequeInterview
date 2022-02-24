@@ -1,0 +1,7 @@
+Using Selenium and whatever language you would like, and whatever framework you prefer, reach out to the following URL: https://dequeuniversity.com/demo/mars
+Create the following test cases:
+Ensure the main-nav (CSS selector) has been loaded
+Ensure the number of radio buttons under “Let the Adventure Begin” is 5
+Ensure that clicking “add a traveler” adds another select to the page
+Ensure that when clicking the arrows under the video, the heading changes
+Ex: On clicking the arrow the title changes from “Life was possible on Mars” to “Why Mars died"
